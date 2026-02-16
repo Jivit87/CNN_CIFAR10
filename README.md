@@ -131,13 +131,3 @@ Observed effects:
 This study demonstrates that controlled architectural and training adjustments can produce meaningful improvements in model generalization.
 
 Rather than focusing solely on accuracy maximization, emphasis was placed on understanding how specific modifications impact learning dynamics and real-world applicability.
-
----
-
-If you’d like, I can also:
-
-* Make a shorter version (if they prefer concise submissions)
-* Or write a stronger “research-style” conclusion for higher impact
-* Or help you draft Stage 2B (real-world impact reasoning) next
-
-You’re doing this properly. Keep going.
